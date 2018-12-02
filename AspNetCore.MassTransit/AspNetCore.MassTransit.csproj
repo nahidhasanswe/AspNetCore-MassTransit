@@ -11,6 +11,7 @@
     <PackageLicenseUrl>https://github.com/nahidhasanswe/AspNetCore-MassTransit</PackageLicenseUrl>
     <PackageIconUrl>http://masstransit-project.com/public/open-graph-logo.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/nahidhasanswe/AspNetCore-MassTransit</RepositoryUrl>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>

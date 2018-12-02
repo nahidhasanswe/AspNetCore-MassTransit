@@ -29,9 +29,9 @@ namespace AspNetCore.Worker
             {
                 config.SetupConnection(connection =>
                 {
-                    connection.RabbitMQConnectionString = "18.223.252.79";
-                    connection.Username = "admin";
-                    connection.Password = "MousumI01011996";
+                    connection.RabbitMQConnectionString = "localhost";
+                    connection.Username = "guest";
+                    connection.Password = "guest";
                     connection.Timeout = 60;
                 }, "Test.Receiver");
 
